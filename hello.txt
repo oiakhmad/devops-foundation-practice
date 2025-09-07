@@ -1,2 +1,2 @@
 
-echo "Hello DevOps"
+echo "Hello DevOps"Hello DevOps, mindset dulu baru tools
